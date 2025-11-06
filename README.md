@@ -1,9 +1,18 @@
-# UTSPWEB
+# 🧠 UTS Pemrograman Web
 
-NAMA :Aflah Athallah Tamam Kapukong
-NIM : 312410280
-KELAS : TI 24A4
-MATA KULIAH : Pemrograman Web
-DOSEN PENGAMPU : Agung Nugroho, S.Kom., M.Kom.
+## 👤 Identitas Mahasiswa
+- **Nama:** Aflah Athallah Tamam Kapukong  
+- **NIM:** 312410280  
+- **Kelas:** TI 24A4  
 
-# TERIMAKASIH
+## 📘 Mata Kuliah
+**Pemrograman Web**
+
+## 👨‍🏫 Dosen Pengampu
+**Agung Nugroho, S.Kom., M.Kom.**
+
+---
+
+### 🙏 Terima Kasih
+Terima kasih telah membaca repository ini.  
+Semoga project ini bermanfaat dan dapat menjadi referensi pembelajaran untuk semua 🙌
